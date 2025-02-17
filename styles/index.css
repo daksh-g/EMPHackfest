@@ -1,0 +1,7 @@
+main {
+  min-height: calc(100vh - 13rem);
+}
+
+button {
+  margin: 1.5rem 0;
+}
